@@ -1,6 +1,6 @@
 # Birth_day_calculator
 
-_**This is NishanthAdki**_
+**Iam Nishanth Adki :)**
 
 **I've written the snippet in python according to and following the short-cut method provided by the well known personality**<br/>
 
